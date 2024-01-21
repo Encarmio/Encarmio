@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and Cryptocurrency
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me gmail-akshaysanal2035@gmail.com
+- 📫 How to reach me gmail- akshaysanal2035@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Still in highschool
 
