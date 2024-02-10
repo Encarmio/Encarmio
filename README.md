@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Encarmio
-- 👀 I’m interested in Machine learning and Cryptocurrency
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in DevSecOps
+- 🌱 I’m currently learning CI/CD
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me gmail- akshaysanal2035@gmail.com
 - 😄 Pronouns: He/Him
